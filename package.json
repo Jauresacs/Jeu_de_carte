@@ -1,0 +1,11 @@
+{
+    "name": "distanciel-idl-jeu-cartes",
+    "scripts": {
+        "docs": "typedoc --readme README.md --entryPointStrategy expand src"
+    },
+    "devDependencies": {
+        "typedoc": "^0.22.12",
+        "typescript": "4.2.3"
+    }
+}
+
